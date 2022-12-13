@@ -3,7 +3,7 @@ A .netCoreApiController application. Developed on dotnet framework 6.
 This scrapper is fetching the vacancies from the NatWest Dummy Website I developed, which is uploaded at https://github.com/musmankkr/ExampleWebsite  
 
 #How to Run    
-1- download and run the Example Website, make sure you have the dotnet core 3 sdk.   
+1- download and run the Example Website, from the url https://github.com/musmankkr/ExampleWebsite ,make sure you have the dotnet core 3 sdk.   
 
 
 2- download this Scrapper, and make sure the url path at appsettings is the same to your local path on which the website is running. You will require .net framework 6 sdk to run this scrapper.

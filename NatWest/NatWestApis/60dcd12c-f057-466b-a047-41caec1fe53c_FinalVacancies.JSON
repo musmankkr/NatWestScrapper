@@ -1,0 +1,79 @@
+[
+  {
+    "Id": 2,
+    "Salary": 2445,
+    "location": "Bristol",
+    "typeofEmployment": "Contractual",
+    "postingDate": "2022-05-23T00:00:00",
+    "candidaterequirements": "SQL, javascript, React",
+    "roledescription": "Frontend Developer",
+    "vacancyDescription": "Candidate must have an experience of 3 years as a frontend developer",
+    "learningoutcomes": "FullStack Developing, Management Skills"
+  },
+  {
+    "Id": 3,
+    "Salary": 5500,
+    "location": "Liverpool",
+    "typeofEmployment": "Contractual",
+    "postingDate": "2020-12-02T00:00:00",
+    "candidaterequirements": "JIRA, Azure, C#",
+    "roledescription": "Cloud Developer",
+    "vacancyDescription": "Candidate must have an experience of more than 2 years in cloud development, preferably Azure, C#",
+    "learningoutcomes": ""
+  },
+  {
+    "Id": 5,
+    "Salary": 5000,
+    "location": "Manchester",
+    "typeofEmployment": "Contractual",
+    "postingDate": "2019-02-20T00:00:00",
+    "candidaterequirements": "Bachelor's degree in Computer Science or any other related disciplines, 1.5+ years of progressive experience in above mentioned skills.",
+    "roledescription": "Data engineering",
+    "vacancyDescription": "Extract data from multiple sources, Data cleaning, cleansing and transformation, Build data systems and pipelines, Conduct complex data analysis and report on results, Load data into data lakes and Datawarehouse, Explore ways to enhance data quality and reliability, Data Cataloging, Evaluate business needs and objectives, Interpret trends and patterns, Work with software engineers to define data fields for SaaS products, Required Skills/Abilities: Previous experience as a data engineer or in a similar role,Technical expertise with data models, data scrapping, data cleansing and segmentation techniques",
+    "learningoutcomes": "Defining ETL Processes from On-Prem/Cloud data sources, Data engineering certification"
+  },
+  {
+    "Id": 7,
+    "Salary": 5000,
+    "location": "Birmingham",
+    "typeofEmployment": "Contractual",
+    "postingDate": "2021-07-02T00:00:00",
+    "candidaterequirements": "Candidate must be able to join at the earliest and have experience with testing applications, Quality Assurance ",
+    "roledescription": "Software Quality Assurance Engineer who wants to make a difference.",
+    "vacancyDescription": "Develop standards and procedures to determine product quality and release readiness, Identify any potential problems that users might encounter,Discover bugs within software Drive innovation and streamline overall testing processes, Identify, isolate, and track bugs throughout testing, Perform manual and execute automated testing suites from Automation Team, Research and analyze product features being tested, Research new tools",
+    "learningoutcomes": "Test Planning, Test Case preparations, Functional, Security and load testing, AWS Preferably with CS background and experience in working on enterprise level applications"
+  },
+  {
+    "Id": 8,
+    "Salary": 5000,
+    "location": "London",
+    "typeofEmployment": "Permanent",
+    "postingDate": "2022-08-02T00:00:00",
+    "candidaterequirements": "Data Analyst",
+    "roledescription": "Data Analyst",
+    "vacancyDescription": "Candidate must be experienced with working with data tools, also with power bi, Dynamics 365, JIRA",
+    "learningoutcomes": "Management, Data Analyst"
+  },
+  {
+    "Id": 9,
+    "Salary": 6500,
+    "location": "London",
+    "typeofEmployment": "Permanent",
+    "postingDate": "2022-05-02T00:00:00",
+    "candidaterequirements": "Visual Studion 22, .net core, php",
+    "roledescription": "Backend Developer",
+    "vacancyDescription": "A backend developer, working with cloud as well as on premi technologies, tech stack C#, python, .net 6",
+    "learningoutcomes": "FullStack Developing, Management Skills"
+  },
+  {
+    "Id": 10,
+    "Salary": 5000,
+    "location": "London",
+    "typeofEmployment": "Permanent",
+    "postingDate": "2022-11-13T00:00:00",
+    "candidaterequirements": "Have overall 3 years of experience in Javascript, HTML, CSS, React, Must be able to work in hectic enviornment.",
+    "roledescription": "Frontend Developer",
+    "vacancyDescription": "Have overall 3 years of experience in Javascript, HTML , CSS, React, Must be able to work in hectic enviornment. Candidate would get to work in different tech stack.",
+    "learningoutcomes": "Candidate would be able to work as a full stack."
+  }
+]

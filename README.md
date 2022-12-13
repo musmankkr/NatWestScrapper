@@ -1,4 +1,4 @@
-# NatWest
+# NatWest Scrapper
 A .netCoreApiController application. Developed on dotnet framework 6.  
 This scrapper is fetching the vacancies from the NatWest Dummy Website I developed, which is uploaded at https://github.com/musmankkr/ExampleWebsite  
 
@@ -15,4 +15,4 @@ This scrapper is fetching the vacancies from the NatWest Dummy Website I develop
 ![alt text](https://github.com/musmankkr/NatWestScrapper/blob/master/Capture3.JPG?raw=true)     
 
 
-4- Make sure the both applications are running on different ports. You can change the port of any one of the application from the launchSettings.json located inside the property folder of both the applications.
+4- Make sure the both applications are running on different ports. You can change the port of any one of the application from the launchSettings.json located inside the property folder.
